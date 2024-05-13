@@ -1,8 +1,8 @@
 ### Olá Pessoal! 👋
 
 <img src="professor.png" alt="My cool logo"/>
-######### 👋:bearded_person::man_teacher: <strong>Olá Sou o Professor Alexandre Unterstell</strong>:computer: 🕹️:family_man_girl_boy: :blush: ######### <br/>
-Atualmente trabalho no Núcleo Regional de Educação de União da Vitória PR como técnico pedagógico (Embaixador) do Programa Edutech <br/>
+######### 👋<strong>Olá Sou o Professor Alexandre Unterstell</strong>:computer: 🕹️:family_man_girl_boy: :blush: ######### <br/>
+Atualmente estou estudando sobre tráfego pago <br/>
 Também Leciono no Centro Univercitário de União da Vitória (UNIUV) e no Colégio Técnico de União da Vitória (Coltec)<br/>
 Áreas que gosto de lecionar e atuar são *inteligência artificial*, *redes de comunicação* e *liguagens front-end!*<bR>
 <img src="anima.gif" alt="My cool logo"/>

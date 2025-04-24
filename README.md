@@ -2,8 +2,8 @@
 
 <img src="professor.png" alt="My cool logo"/>
 ######### 👋<strong>Olá Sou o Professor Alexandre Unterstell</strong>:computer: 🕹️:family_man_girl_boy: :blush: ######### <br/>
-Atualmente estou estudando sobre tráfego pago <br/>
-Também Leciono no Centro Univercitário de União da Vitória (UNIUV) e no Colégio Técnico de União da Vitória (Coltec)<br/>
+Sou tutor no Núcleo Regional de Educação de União da Vitória do DireFor <br/>
+Também Leciono no Centro Univercitário de União da Vitória (UNIUV)<br/>
 Áreas que gosto de lecionar e atuar são *inteligência artificial*, *redes de comunicação* e *liguagens front-end!*<bR>
 <img src="anima.gif" alt="My cool logo"/>
 	<br/>**Linguagens e interesses:**
